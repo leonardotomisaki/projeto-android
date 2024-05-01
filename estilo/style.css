@@ -18,7 +18,7 @@
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: "Bebas Neue", sans-serif;
-    --fonte-Idroid: 'idroid', cursive;
+    --fonte-Idroid: 'idroid';
 }
 
 *{
@@ -103,7 +103,7 @@ main h1{
 }
 
 main h2{
-    font-family: 'Idroid';
+    font-family: 'idroid';
     font-weight: normal;
     background-image: linear-gradient(to right, var(--cor02) , white);
     color: var(--cor05);
