@@ -105,7 +105,7 @@ main h1{
 main h2{
     font-family: var(--fonte-Idroid);
     font-weight: normal;
-    background-image: linear-gradient(to right, var(--cor02) , red);
+    background-image: linear-gradient(to right, var(--cor02) , white);
     color: var(--cor05);
     text-indent: 6px;
     font-size: 1.3em;
