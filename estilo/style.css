@@ -97,15 +97,15 @@ main{
 
 main h1{
     font-weight: normal;
-    font-family: 'idroid';
+    font-family: var(--fonte-Idroid);
     color: var(--cor05);
     font-size: 1.8em;
 }
 
 main h2{
-    font-family: 'idroid';
+    font-family: var(--fonte-Idroid);
     font-weight: normal;
-    background-image: linear-gradient(to right, var(--cor02) , white);
+    background-image: linear-gradient(to right, var(--cor02) , red);
     color: var(--cor05);
     text-indent: 6px;
     font-size: 1.3em;
